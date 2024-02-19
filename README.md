@@ -16,3 +16,5 @@ To run application type (you must be in work directory):
 (Windows) python get_artist_album.py "ARTIST" "FILE_FORMAT" "FILE_NAME (optional)"
 
 (Linux) python3 get_artist_album.py "ARTIST" "FILE_FORMAT" "FILE_NAME (optional)"
+
+If Artist has got special characters like "/" in "AC/DC" you must give third argument (file name)
